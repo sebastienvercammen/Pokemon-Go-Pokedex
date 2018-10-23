@@ -4483,6 +4483,19 @@
         ],
         "name": "Burmy"
     },
+    "413": {
+        "types": [
+            {
+                "type": "Bug",
+                "color": "#a8b820"
+            },
+            {
+                "type": "Grass",
+                "color": "#78c850"
+            }
+        ],
+        "name": "Wormadam"
+    },
     "414": {
         "types": [
             {
@@ -5296,6 +5309,19 @@
         ],
         "name": "Regigigas"
     },
+    "487": {
+        "types": [
+            {
+                "type": "Ghost",
+                "color": "#705898"
+            },
+            {
+                "type": "Dragon",
+                "color": "#7038f8"
+            }
+        ],
+        "name": "Giratina"
+    },
     "488": {
         "types": [
             {
@@ -5331,6 +5357,15 @@
             }
         ],
         "name": "Darkrai"
+    },
+    "492": {
+        "types": [
+            {
+                "type": "Grass",
+                "color": "#78c850"
+            }
+        ],
+        "name": "Shaymin"
     },
     "493": {
         "types": [
